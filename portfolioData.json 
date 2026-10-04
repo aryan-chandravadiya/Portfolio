@@ -1,0 +1,61 @@
+{
+      "projects": [
+            {
+                      "id": "p1",
+                            "title": "PredictPro",
+                                  "category": "Full-Stack Development / Machine Learning",
+                                        "description": "A machine learning web application enabling users to upload datasets, train predictive models, evaluate accuracy, and export analytical reports as PDFs.",
+                                              "techStack": ["Python", "Django", "React", "REST API", "Scikit-learn", "Pandas", "NumPy", "Matplotlib"],
+                                                    "repositoryUrl": "",
+                                                          "liveUrl": ""
+            },
+                {
+                          "id": "p2",
+                                "title": "Restaurant Management System",
+                                      "category": "Web Development",
+                                            "description": "A database-driven application handling customer ordering, stock management, and administrative tracking.",
+                                                  "techStack": ["Python", "MySQL", "HTML", "CSS", "JavaScript", "XAMPP"],
+                                                        "repositoryUrl": "",
+                                                              "liveUrl": ""
+                },
+                    {
+                              "id": "p3",
+                                    "title": "Government Budget Analysis Report",
+                                          "category": "Data Analysis",
+                                                "description": "A 10-year comparative research report analyzing central government budget allocations across agriculture, defence, industry, and education.",
+                                                      "techStack": ["Data Analysis", "Research"],
+                                                            "repositoryUrl": "",
+                                                                  "liveUrl": ""
+                    }
+      ],
+        "clientWork": [
+                {
+                          "id": "c1",
+                                "client": "Nature's Amare",
+                                      "service": "Brand Identity & Design",
+                                            "description": "Created logos, social media posts, and promotional video assets for brand marketing.",
+                                                  "mediaType": "image",
+                                                        "mediaPath": "https://picsum.photos/id/1/800/600"
+                },
+                    {
+                              "id": "c2",
+                                    "client": "The Officer Factory",
+                                          "service": "Video Production & Social Media",
+                                                "description": "Developed commercial visual assets including promotional videos and social media content.",
+                                                      "mediaType": "video",
+                                                            "mediaPath": "https://www.w3schools.com/html/mov_bbb.mp4"
+                    },
+                        {
+                                  "id": "c3",
+                                        "client": "Syntax2Scale",
+                                              "service": "Brand Identity & Design",
+                                                    "description": "Designed core brand identity and digital promotional materials.",
+                                                          "mediaType": "image",
+                                                                "mediaPath": "https://picsum.photos/id/2/800/600"
+                        }
+        ]
+}
+
+            }
+      ]
+}
